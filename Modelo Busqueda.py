@@ -1,4 +1,6 @@
 """
+IMPORTANTE ES NECESARIO DESCARGAR NETWORKX
+
 Modelado de problemas reales como problemas de busqueda en grafos.
 
 Se modelan dos problemas:
